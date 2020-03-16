@@ -2,6 +2,6 @@ def add(x, y):
     return x + y
 
 def sub(x, y):
-    pass
+    return x - y
 
-print(add(3, 4))
+print(sub(3, 4))
