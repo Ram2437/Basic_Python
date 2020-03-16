@@ -1,1 +1,0 @@
-Numpy and Pandas implementation
